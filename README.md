@@ -86,6 +86,9 @@ Os critérios de avaliação e cronograma detalhado serão disponibilizados ao l
 
 # Laboratórios
 
+labs/lab-dns.md
+
+
 
 
 > ⚠️ **Observações:** Este repositório tem finalidade acadêmica. Os materiais aqui disponibilizados devem ser utilizados exclusivamente para fins educacionais, respeitando direitos autorais e normas institucionais.
