@@ -74,28 +74,15 @@ Os critérios de avaliação e cronograma detalhado serão disponibilizados ao l
 
 ---
 
-## Organização do Repositório
-
-```text
-├── aulas/              # Materiais das aulas (slides, resumos, roteiros)
-├── atividades/         # Atividades práticas e estudos de caso
-├── laboratorios/       # Roteiros de laboratório e exercícios
-├── referencias/        # Materiais de apoio e leituras complementares
-└── README.md           # Descrição da disciplina
-```
-
 ## Laboratórios
 
 | Laboratório | Tema | Link |
 |------------:|------|------|
-| Lab 01 | Criptografia Simétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-simetrico.md) |
-| Lab 02 | Criptografia Assimétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-assimetrico.md) |
-| Lab 03 | Criptografia Quântica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-quantico.md) |
+| 01 | Criptografia Simétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-simetrico.md) |
+| 02 | Criptografia Assimétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-assimetrico.md) |
+| 03 | Criptografia Quântica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-quantico.md) |
 
 ---
-
-labs/lab-dns.md
-
 
 
 
