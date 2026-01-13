@@ -77,7 +77,7 @@ Os critérios de avaliação e cronograma detalhado serão disponibilizados ao l
 ## Laboratórios
 
 | Laboratório | Tema | Link |
-|------------:|------|------|
+|:------------:|:------|------|
 | 01 | Criptografia Simétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-simetrico.md) |
 | 02 | Criptografia Assimétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-assimetrico.md) |
 | 03 | Criptografia Quântica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-quantico.md) |
