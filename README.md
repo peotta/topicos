@@ -83,6 +83,11 @@ Os critérios de avaliação e cronograma detalhado serão disponibilizados ao l
 ├── referencias/        # Materiais de apoio e leituras complementares
 └── README.md           # Descrição da disciplina
 ```
+
+# Laboratórios
+
+
+
 > ⚠️ **Observações:** Este repositório tem finalidade acadêmica. Os materiais aqui disponibilizados devem ser utilizados exclusivamente para fins educacionais, respeitando direitos autorais e normas institucionais.
 
  
