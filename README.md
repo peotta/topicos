@@ -88,14 +88,9 @@ Os critérios de avaliação e cronograma detalhado serão disponibilizados ao l
 
 | Laboratório | Tema | Link |
 |------------:|------|------|
-| Lab 01 | Criptografia Simétrica | [Acessar](https://github.com/peotta/ravens/labs/lab-simetrica.md) |
-| Lab 02 | Analisadores de Protocolos (Sniffers) | [Acessar](./labs/lab-02.md) |
-| Lab 03 | VLAN e Roteamento Estático | [Acessar](./labs/lab-03.md) |
-| Lab 04 | Roteamento Estático | [Acessar](./labs/lab-04.md) |
-| Lab 05 | Protocolo RIP | [Acessar](./labs/lab-05.md) |
-| Lab 06 | OSPF (Open Shortest Path First) | [Acessar](./labs/lab-06.md) |
-| Lab 07 | Roteamento OSPF (Áreas, DR/BDR e Enlaces Virtuais) | [Acessar](./labs/lab-07.md) |
-| Comandos | Lista de Comandos | [Acessar](./labs/comandos.md) |
+| Lab 01 | Criptografia Simétrica | [Acessar](https://github.com/peotta/ravens/labs/lab-simetrico.md) |
+| Lab 02 | Criptografia Assimétrica | [Acessar]([./labs/lab-02.md](https://github.com/peotta/ravens/labs/lab-simetrico.md)) |
+
 ---
 
 labs/lab-dns.md
