@@ -84,12 +84,13 @@ Os critérios de avaliação e cronograma detalhado serão disponibilizados ao l
 └── README.md           # Descrição da disciplina
 ```
 
-# Laboratórios
+## Laboratórios
 
 | Laboratório | Tema | Link |
 |------------:|------|------|
-| Lab 01 | Criptografia Simétrica | [Acessar](https://github.com/peotta/ravens/labs/lab-simetrico.md) |
-| Lab 02 | Criptografia Assimétrica | [Acessar]([./labs/lab-02.md](https://github.com/peotta/ravens/labs/lab-simetrico.md)) |
+| Lab 01 | Criptografia Simétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-simetrico.md) |
+| Lab 02 | Criptografia Assimétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-assimetrico.md)) |
+| Lab 03 | Criptografia Quântica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-quantico.md)) |
 
 ---
 
