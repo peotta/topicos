@@ -82,6 +82,8 @@ Os critérios de avaliação e cronograma detalhado serão disponibilizados ao l
 | 02 | Criptografia Assimétrica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-assimetrico.md) |
 | 03 | Criptografia Quântica | [Acessar](https://github.com/peotta/ravens/blob/main/labs/lab-quantico.md) |
 
+> O aluno deve seguir rigorosamente os **roteiros** utilizando o modelo de **relatório** [Acessar](./labs/relatório.md) e registrar os resultados conforme solicitado. 
+
 ---
 
 
