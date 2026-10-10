@@ -90,4 +90,8 @@ Os critérios de avaliação e cronograma detalhado serão disponibilizados ao l
 
 > ⚠️ **Observações:** Este repositório tem finalidade acadêmica. Os materiais aqui disponibilizados devem ser utilizados exclusivamente para fins educacionais, respeitando direitos autorais e normas institucionais.
 
- 
+---
+
+## Uso de Inteligência Artificial
+
+Em conformidade com a Política de Uso Responsável da IA da FT/UnB, declara-se que este material foi elaborado com apoio de ferramentas de inteligência artificial generativa (Claude, ChatGPT e Gemini), sob revisão e responsabilidade do professor.
